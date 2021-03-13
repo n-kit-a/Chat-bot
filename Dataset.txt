@@ -1,73 +1,67 @@
-Объект, Класс
-Здарова, 1
-Приветствую, 1
-Здравствуй, 1
-Пока пока, 2
-сколько времени, 4
-что ты умеешь,5
-как мне стать программистом, 6
-как получать 300 тысяч в наносекунду  ,7
-как там на улице,8
-Приветствую вас,1
-Всего хорошего,2
-Чем ты можешь помочь,5
-Сколько на часах,4
-Какими курсами для программирования воспользоваться,6
-Как погода на данный момент в Новосибирске ,8
-Привет ,1
-Пока  ,2
-Сколько время,4 
-Чем можешь помочь,5
-Какая сейчас погода,8
-Здравствуйте, 1
-Приветствую, 1
-Доброе утро,1
-Добрый день,1
-До свидания,2
-Прощайте, 2 
-Прощай,2
-Всего доброго,2
-Всего хорошего,2
-Спасибо,3
-Благодарю,3
-До скорого, 2
-До завтра, 2
-Как ты можешь мне помочь, 5
-Чем ты можешь быть полезен, 5
-Что ты можешь, 5
-Который сейчас час, 4
-Сколько сейчас времени, 4
-Сколько на часах, 4
-Расскажи что ты умеешь, 5
-Какое сейчас время, 4
-Сколько сейчас времени, 4
-Что сейчас по погоде в Новосибирске, 8
-Как обстоят дела с погодой, 8
-Погода, 8
-Можешь помочь с программированием, 6
-Что почитать чтобы больше понимать в программировании, 6
-Как научиться программировать, 6
-Помоги с программированием, 6
-Как научиться писать код, 6 
-Посоветуй курсы по машинному обучению, 7
-Что почитать по машинному обучению, 7
-Что почитать по нейросетям, 7
-Где найти информацию по нейросетям, 7
-Большое спасибо, 3
-Благодарен за ответ, 3
-Спасибо за помощь, 3
-Сколько градусов за окном, 8
-Какой прогноз погоды на завтра, 8
-Какой прогноз погоды, 8
-Скажи прогноз погоды, 8
-Сколько градусов на улице, 8
-На улице идет дождь, 8
-На улице холодно, 8
-На улице тепло, 8
-Сегодня будут осадки, 8
-Как повысить свои навыки в программировании, 6
-Где можно прокачать свои навыки программирования, 6
-Посоветуй ресурсы для изучения машинного обучения, 7
+Object, Class
+Hey Ya, 1
+Greetings, 1
+Hello, 1
+Bye Bye, 2
+what time is it, 4
+What can you do,5
+how can i become a programmer, 6
+how is it on the street,8
+Good luck,2
+How can you help,5
+How many hours,4
+Which courses for programming to use,6
+How is the weather at the moment in Novosibirsk,8
+Hi,1
+Bye ,2
+What time is it,4 
+How can you help,5
+What is the weather,8
+How do you do, 1
+Good morning,1
+Good afternoon,1
+Goodbye,2
+Farewell, 2 
+Adieu,2
+Thanks,3
+Thank you, 3
+See you later, 2
+Till tomorrow, 2
+How can you help me, 5
+How can you be useful, 5
+What can you, 5
+What time is it now, 4
+What time is it, 4
+Tell me what you can do, 5
+What's the weather in Novosibirsk now?, 8
+How is the weather, 8
+Weather, 8
+Can you help with programming, 6
+What to read to understand more in programming, 6
+How to learn to program, 6
+Help with programming, 6
+How to learn to write code, 6 
+Recommend Machine Learning Courses, 7
+What to read about machine learning, 7
+What to read on neural networks, 7
+Where to find information on neural networks, 7
+Many thanks, 3
+Grateful for the answer, 3
+thanks for the help, 3
+How many degrees outside the window, 8
+What's the forecast for tomorrow, 8
+What is the weather forecast, 8
+Tell the weather forecast, 8
+How many degrees outside, 8
+It is raining outside, 8
+It's cold outside, 8
+Warm outside, 8
+There will be precipitation today, 8
+How to improve your programming skills, 6
+Where to improve your programming skills, 6
+Recommend resources for learning machine learning, 7
+machine learning, 7
+Deep learning, 7
 
 
 

@@ -1,4 +1,4 @@
-Object, Class
+Object,Class
 Hey Ya, 1
 Greetings, 1
 Hello, 1
@@ -62,6 +62,11 @@ Where to improve your programming skills, 6
 Recommend resources for learning machine learning, 7
 machine learning, 7
 Deep learning, 7
+What's up, 1
+Logistic regression, 7
+What time is in Novosibirsk, 4
+What hour in the Novosibirsk, 4
+Hi bro,1 
 
 
 

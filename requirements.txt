@@ -1,5 +1,4 @@
-pickle
-ssl
 pandas
 sister
 flask
+scikit-learn
